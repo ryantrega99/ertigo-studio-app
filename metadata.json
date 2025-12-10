@@ -1,0 +1,8 @@
+{
+  "name": "ERTIGOAPP Studio",
+  "description": "Professional streaming dashboard with AI-powered creative tools.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
